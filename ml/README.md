@@ -1,1 +1,1 @@
-Implementation of some ML algorithms with a straightforward and simple approach with (hopefully) rich comments.
+Implementation of some ML algorithms with a straightforward and simple approach with rich comments.
